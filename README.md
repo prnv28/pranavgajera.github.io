@@ -1,4 +1,4 @@
-# Graduate Student @ IISc BAnglore
+# Graduate Student @ IISc Banglore
 
 ## Technical Skills
 
