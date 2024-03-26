@@ -5,10 +5,10 @@
 **Programming Languages**: Java, Python, C, C++ \
 **Frameworks/Tools**: PyTorch, TensorFlow, ,Git, LLVM \
 **ML/DL**:
-- ML: PCA, Linear Regression, Logistic Regression, Support Vector Machines
-- NLP: Word embeddings, RNN, LSTM, GRU, Transformers, BERT, GPT
-- CV: CNN, Vision Transformers
-- Graph Neural Networks 
+- **ML**: PCA, Linear Regression, Logistic Regression, Support Vector Machines
+- **NLP**: Word embeddings, RNN, LSTM, GRU, Transformers, BERT, GPT
+- **CV**: CNN, Vision Transformers
+- **Graph Neural Networks** 
   
 **Miscellaneous**: Data Structures, Algorithms, Quantum Computation (Beginner)
 
@@ -25,7 +25,7 @@ into the United portal.
 
 ## MTech Thesis
 **Quantum Machine Learning**
--Exploring the field of quantum machine learning with goal to enhance or develop quantum algorithms for
+- Exploring the field of quantum machine learning with goal to enhance or develop quantum algorithms for
 machine learning to utilize quantum benifit for computation.
 
 ## Projects
