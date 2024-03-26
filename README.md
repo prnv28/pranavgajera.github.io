@@ -30,7 +30,7 @@ machine learning to utilize quantum benifit for computation.
 ## Projects
 
 ### Neural Machine Translation using Transformer
-[Paper Implementation]([https://arxiv.org/abs/1706.03762](https://arxiv.org/abs/1706.03762))
+[Paper Implementation](https://arxiv.org/abs/1706.03762)
 
 Implementation of a paper on Neural Machine Translation using Transformer units from scratch to translate English to
 Hindi using IITB dataset.
