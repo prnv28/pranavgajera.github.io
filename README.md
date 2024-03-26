@@ -1,14 +1,14 @@
 # Graduate Student @ IISc Banglore
 
 ## Work Experience
-**System Engineer @ Tata Consulttancy Services (_September 2020 - September 2021_)**
+**System Engineer @ Tata Consulttancy Services (_Sep 2020 - Sep 2021_)**
 - Handled Java-based backend with abstraction on Hibernate and Spring Framework. The project was for the Tamil
 Nadu government and was titled Ease Of Doing Business (EODB), under which the team integrated various services
 into the United portal.
 
 ## Education
-- M.Tech., Computer Science | IISc Bangalore (_June 2024_) 			        		
-- B.Tech., Computer Engineering | BVM Engineering College, Vallabh Vidyanagar (_August 2020_)
+- M.Tech., Computer Science | IISc, Bangalore (_June 2024_) 			        		
+- B.Tech., Computer Engineering | BVM Engineering College, Gujarat (_Aug 2020_)
 
 ## Technical Skills
 
