@@ -1,5 +1,15 @@
 # Graduate Student @ IISc Banglore
 
+## Work Experience
+**System Engineer @ Tata Consulttancy Services (_June 2022 - Present_)**
+- Handled Java-based backend with abstraction on Hibernate and Spring Framework. The project was for the Tamil
+Nadu government and was titled Ease Of Doing Business (EODB), under which the team integrated various services
+into the United portal.
+
+## Education
+- M.Tech., Computer Science | IISc Bangalore (_June 2024_) 			        		
+- B.Tech., Computer Engineering | BVM Engineering College, Vallabh Vidyanagar (_August 2020_)
+
 ## Technical Skills
 
 **Programming Languages**: Java, Python, C, C++ \
@@ -11,17 +21,6 @@
 - **Graph Neural Networks** 
   
 **Miscellaneous**: Data Structures, Algorithms, Quantum Computation (Beginner)
-
-
-## Education
-- M.Tech., Computer Science | IISc Bangalore (_June 2024_) 			        		
-- B.Tech., Computer Engineering | BVM Engineering College, Vallabh Vidyanagar (_August 2020_)
-
-## Work Experience
-**System Engineer @ Tata Consulttancy Services (_June 2022 - Present_)**
-- Handled Java-based backend with abstraction on Hibernate and Spring Framework. The project was for the Tamil
-Nadu government and was titled Ease Of Doing Business (EODB), under which the team integrated various services
-into the United portal.
 
 ## MTech Thesis
 **Quantum Machine Learning**
