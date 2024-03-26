@@ -2,13 +2,13 @@
 
 ## Technical Skills
 
-**Programming Languages**: Java, Python, C, C++_
-**Frameworks/Tools**: PyTorch, TensorFlow, ,Git, LLVM_
-**ML/DL**:_ 
+**Programming Languages**: Java, Python, C, C++ \
+**Frameworks/Tools**: PyTorch, TensorFlow, ,Git, LLVM \
+**ML/DL**:
 - ML: PCA, Linear Regression, Logistic Regression, Support Vector Machines
 - NLP: Word embeddings, RNN, LSTM, GRU, Transformers, BERT, GPT
 - CV: CNN, Vision Transformers
-- Graph Neural Networks_
+- Graph Neural Networks \
 **Miscellaneous**: Data Structures, Algorithms, Quantum Computation (Beginner)
 
 
