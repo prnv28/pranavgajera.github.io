@@ -83,7 +83,7 @@ to represent the image with k depth color image.
 - Deep Learning for Natural Language Processing
 - Information Theory
 
-## AWARDS & HONOURS
+## Awards & Honours
 - **Reliance Foundation Scholar (Post Graduation)**: One of the top 100 Indian candidates selected for the prestigious scholarship.
 - **Graduate Aptitude Test in Engineering (GATE 2022)**: Achieved an AIR 110 with 99.85 percentile
 
