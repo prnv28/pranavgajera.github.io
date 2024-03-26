@@ -1,7 +1,7 @@
 # Pranav Gajera
 
 ## Work Experience
-**System Engineer @ Tata Consulttancy Services (_Sep 2020 - Sep 2021_)**
+**System Engineer @ Tata Consultancy Services (_Sep 2020 - Sep 2021_)**
 - Handled Java-based backend with abstraction on Hibernate and Spring Framework. The project was for the Tamil
 Nadu government and was titled Ease Of Doing Business (EODB), under which the team integrated various services
 into the United portal.
