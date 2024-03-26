@@ -8,7 +8,7 @@
 - ML: PCA, Linear Regression, Logistic Regression, Support Vector Machines
 - NLP: Word embeddings, RNN, LSTM, GRU, Transformers, BERT, GPT
 - CV: CNN, Vision Transformers
-- Graph Neural Networks \
+- Graph Neural Networks 
   
 **Miscellaneous**: Data Structures, Algorithms, Quantum Computation (Beginner)
 
