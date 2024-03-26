@@ -1,4 +1,4 @@
-# Graduate Student @ IISc Banglore
+# Pranav Gajera
 
 ## Work Experience
 **System Engineer @ Tata Consulttancy Services (_Sep 2020 - Sep 2021_)**
