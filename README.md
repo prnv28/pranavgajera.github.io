@@ -71,3 +71,19 @@ Multi-Class SVM algorithms using 1-vs-all classifiers on the MNIST data-set.
 
 K-means clustering algorithm is used to cluster the pixels of the image, with a given number of clusters k= 2,5,10,20,50
 to represent the image with k depth color image.
+
+## Courses
+- Design And Analysis of Algorithm
+- High Performance Computer Architecture
+- Applied Linear Algebra And Optimisation
+- Probability And Statistics
+- Computational Geometry
+- Machine Learning
+- Compiler Design
+- Deep Learning for Natural Language Processing
+- Information Theory
+
+  ## AWARDS & HONOURS
+  - **Reliance Foundation Scholar | Post-graduation**: One of the top 100 Indian candidates selected for the prestigious scholarship.
+  - **Graduate Aptitude Test in Engineering (GATE 2022)**: Achieved an AIR 110 with 99.85 percentile
+
