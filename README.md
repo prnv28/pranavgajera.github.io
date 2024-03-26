@@ -14,8 +14,8 @@
 
 
 ## Education
-- M.Tech., Computer Science and Engineering | IISc Bangalore (_June 2024_) 			        		
-- B.Tech., Computer Engineering | Birla Vishvakarma Mahavidyalaya, Vallabh Vidyanagar (_August 2020_)
+- M.Tech., Computer Science | IISc Bangalore (_June 2024_) 			        		
+- B.Tech., Computer Engineering | BVM Engineering College, Vallabh Vidyanagar (_August 2020_)
 
 ## Work Experience
 **System Engineer @ Tata Consulttancy Services (_June 2022 - Present_)**
