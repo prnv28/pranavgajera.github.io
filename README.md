@@ -1,7 +1,8 @@
 # Pranav Gajera
 
 ## Work Experience
-**Quantum Engineer I @ Accelequant India Pvt Ltd (_Jul 2024 - Present)**
+
+**Quantum Engineer I @ Accelequant India Pvt Ltd (_Jul 2024 - Present_)**
 
 
 **System Engineer @ Tata Consultancy Services (_Sep 2020 - Sep 2021_)**
