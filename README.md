@@ -1,10 +1,16 @@
 # Pranav Gajera
 
 ## Work Experience
+**Quantum Engineer I @ ccelequant India Pvt Ltd (_Jul 2024 - Present)**
+
+
 **System Engineer @ Tata Consultancy Services (_Sep 2020 - Sep 2021_)**
 - Handled Java-based backend with abstraction on Hibernate and Spring Framework. The project was for the Tamil
 Nadu government and was titled Ease Of Doing Business (EODB), under which the team integrated various services
 into the United portal.
+
+**Project Intern @ Tata Consultancy Services (_Jan 2020 - Apr 2020_)**
+
 
 ## Education
 - M.Tech., Computer Science | IISc, Bangalore (_June 2024_) 			        		
@@ -13,19 +19,22 @@ into the United portal.
 ## Technical Skills
 
 **Programming Languages**: Java, Python, C, C++ \
-**Frameworks/Tools**: PyTorch, TensorFlow, ,Git, LLVM \
+**Frameworks/Tools**: PyTorch, TensorFlow,Git, LLVM, Pennylane, JAX (Beginner) \
 **ML/DL**:
 - **ML**: PCA, Linear Regression, Logistic Regression, Support Vector Machines
 - **NLP**: Word embeddings, RNN, LSTM, GRU, Transformers, BERT, GPT
 - **CV**: CNN, Vision Transformers
-- **Graph Neural Networks** 
+- **Graph Neural Networks**
+- **Quantum Machine Learning**: Variational Quantum Circuits, Quantum-Classical Hybrid Optimisation
   
 **Miscellaneous**: Data Structures, Algorithms, Quantum Computation (Beginner)
 
 ## MTech Thesis
-**Quantum Machine Learning**
-- Exploring the field of quantum machine learning with goal to enhance or develop quantum algorithms for
-machine learning to utilize quantum benifit for computation.
+**Quantum Machine Learning**\
+**Advisor**: Prof. Chiranjib Bhattacharyya, Department of Computer Science and Automation, IISC \
+**Title**: Exploring variants of the Quantum Gradient Sampling Algorithm\
+- Investigated the performance of Quantum Gradient Sampling (QGS) based optimizers for Variational Quantum Circuit (VQC) training, comparing convergence speed and computational cost with classical gradient-based methods (SGD, Adam, AMSGrad, RMSProp).
+
 
 ## Projects
 
