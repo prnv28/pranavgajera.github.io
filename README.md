@@ -1,7 +1,7 @@
 # Pranav Gajera
 
 ## Work Experience
-**Quantum Engineer I @ ccelequant India Pvt Ltd (_Jul 2024 - Present)**
+**Quantum Engineer I @ Accelequant India Pvt Ltd (_Jul 2024 - Present)**
 
 
 **System Engineer @ Tata Consultancy Services (_Sep 2020 - Sep 2021_)**
@@ -32,7 +32,7 @@ into the United portal.
 ## MTech Thesis
 **Quantum Machine Learning**\
 **Advisor**: Prof. Chiranjib Bhattacharyya, Department of Computer Science and Automation, IISC \
-**Title**: Exploring variants of the Quantum Gradient Sampling Algorithm\
+**Title**: Exploring variants of the Quantum Gradient Sampling Algorithm
 - Investigated the performance of Quantum Gradient Sampling (QGS) based optimizers for Variational Quantum Circuit (VQC) training, comparing convergence speed and computational cost with classical gradient-based methods (SGD, Adam, AMSGrad, RMSProp).
 
 
