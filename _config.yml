@@ -2,4 +2,5 @@ title: Pranav Gajera
 logo: /assets/img/pranav.png
 description: text below image
 # show_downloads: true
-theme: jekyll-theme-minimal
+# theme: jekyll-theme-minimal
+theme : jekyll-theme-cayman
